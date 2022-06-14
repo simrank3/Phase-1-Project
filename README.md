@@ -28,8 +28,6 @@ Horror movies generate the highest ROI. The second best genere to yield a high R
 
 ![title](Images/Genres_With_the_Highest_ROI.png)
 
-<img src='Images\Genres_With_the_Highest_ROI.png'>
-
 By a landslide, the most popular runtime for a movie is between one and one-and-a-half hours to two hours. The least popular runtime is between two-and-a-half hours to three hours. 
 
 ![title](Images/Movie_Runtimes.png) 
@@ -55,3 +53,11 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 For additional info, contact Simran Kau at simran.kaur@flatironschool.com
 
 ## Repository Structure
+├── zippedData
+├── Images
+│   ├── Genres_With_the_Highest_ROI.png
+│   ├── Movie_Releases_Per_Year.png
+│   ├── Movie_Runtimes.png
+├── README.md
+├── presentation.pdf
+└── student.ipynb
