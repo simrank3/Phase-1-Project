@@ -36,11 +36,11 @@ By a landslide, the most popular runtime for a movie is between one and one-and-
 
 This analysis concludes three core recommendations for Microsoft. 
 
-The best time to release a movie would be quarter two. This falls into the months of April, May and June. Quarter two has the second lowest number of releases in a year. Quarter one has the lowest number of releases however, more people are likely to be outside during the spring months.
+- **The best time to release a movie would be quarter two.** This falls into the months of April, May and June. Quarter two has the second lowest number of releases in a year. Quarter one has the lowest number of releases however, more people are likely to be outside during the spring months.
 
-Horror moveies have the highest ROI. Mystery and thriller are good options as well. 
+- **Horror moveies have the highest ROI.** Mystery and thriller are good options as well. 
 
-The movie runtime should be between 90 minutes and 120 minutes. This was the runtime range for most movies in the dataset. 
+- **The movie runtime should be between 90 minutes and 120 minutes.** This was the runtime range for most movies in the dataset. 
 
 ### Next Steps
 
