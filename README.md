@@ -26,11 +26,13 @@ January has the lowest number of releases and December has the highest. Overall,
 
 Horror movies generate the highest ROI. The second best genere to yield a high ROI is mystery. The third best is thriller, followed by geography, followed by sports. 
 
-![title](Images/Genres With the Highest ROI.png)
+![title](Images/Genres_With_the_Highest_ROI.png)
+
+<img src='Images\Genres_With_the_Highest_ROI.png'>
 
 By a landslide, the most popular runtime for a movie is between one and one-and-a-half hours to two hours. The least popular runtime is between two-and-a-half hours to three hours. 
 
-![title](Images/Movie Runtimes.png) 
+![title](Images/Movie_Runtimes.png) 
 
 ## Conclusions
 
