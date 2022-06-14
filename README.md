@@ -53,12 +53,13 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 For additional info, contact Simran Kaur at simran.kaur@flatironschool.com
 
 ## Repository Structure
-├── Data
-
+```
+├── zippedData
 ├── Images
-
+│   ├── Genres_With_the_Highest_ROI.png
+│   ├── Movie_Releases_Per_Year.png
+│   ├── Movie_Runtimes.png
 ├── README.md
-
 ├── presentation.pdf
-
 └── student.ipynb
+```
