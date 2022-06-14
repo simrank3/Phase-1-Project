@@ -50,14 +50,15 @@ The movie runtime should be between 90 minutes and 120 minutes. This was the run
 
 See the full analysis in the Jupyter Notebook or review this presentation.
 
-For additional info, contact Simran Kau at simran.kaur@flatironschool.com
+For additional info, contact Simran Kaur at simran.kaur@flatironschool.com
 
 ## Repository Structure
-├── zippedData
+├── Data
+
 ├── Images
-│   ├── Genres_With_the_Highest_ROI.png
-│   ├── Movie_Releases_Per_Year.png
-│   ├── Movie_Runtimes.png
+
 ├── README.md
+
 ├── presentation.pdf
+
 └── student.ipynb
