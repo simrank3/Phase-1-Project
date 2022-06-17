@@ -1,3 +1,5 @@
+![title](Images/logo.png)
+
 # Microsoft x Hollywood
 
 Author: Simran Kaur
@@ -38,28 +40,34 @@ This analysis concludes three core recommendations for Microsoft.
 
 - **The best time to release a movie would be quarter two.** This falls into the months of April, May and June. Quarter two has the second lowest number of releases in a year. Quarter one has the lowest number of releases however, more people are likely to be outside during the spring months.
 
-- **Horror moveies have the highest ROI.** Mystery and thriller are good options as well. 
+- **Horror movies have the highest ROI.** Mystery and thriller are good options as well. 
 
-- **The movie runtime should be between 90 minutes and 120 minutes.** This was the runtime range for most movies in the dataset. 
+- **The movie runtime should be between 90 minutes and 120 minutes.** This was the runtime range for most of the movies in the dataset. 
 
 ### Next Steps
 
+Further analyses can yeild additional ways produce profitable movie:
 
+- **Determing a production budget.** A strong budget is needed to create a high quality movie, which will be directly tied to the success of the movie. 
+
+- **Hire popular actors.** This analysis would get well-known individuals involved and automatically gaining viewers. 
+
+- **Having a strong marketing plan.** This is a major determining factor in the success of a film because if no one is unaware of the movie, there won't be any viewers. 
 
 ## Further Information
 
 See the full analysis in the Jupyter Notebook or review this presentation.
 
-For additional info, contact Simran Kaur at simran.kaur@flatironschool.com
+For additional information, contact Simran Kaur at simran.kaur@flatironschool.com
 
 ## Repository Structure
 ```
-├── zippedData
 ├── Images
 │   ├── Genres_With_the_Highest_ROI.png
 │   ├── Movie_Releases_Per_Year.png
 │   ├── Movie_Runtimes.png
-├── README.md
+├── zippedData
+├── student.ipynb
 ├── presentation.pdf
-└── student.ipynb
+└── README.md
 ```
