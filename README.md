@@ -6,7 +6,7 @@ Author: Simran Kaur
 
 ## Overview
 
-This project intends to assist Microsoft produce movies. As Microsoft has no previous movie production experience, they're starting from scratch. A few different analyses were performed. The first analysis was completed on release date and the best time in a year to release to release a movie. A second analysis was done on genres, to determine which genres would be the most profitable for them to start off with. Lastly, a third analysis was carried out on movie runtimes, to produce an industry benchmark. Microsoft can use the findings from this project to succesfully step into the world of Hollywood.
+This project intends to assist Microsoft produce movies. As Microsoft has no previous movie production experience, they're starting from scratch. A few different analyses were performed. The first analysis was completed on release date and the best time in a year to release to release a movie. A second analysis was done on genres, to determine which genres would be the most profitable for them to start off with. Lastly, a third analysis was carried out on movie runtimes, to see which runtime would be the most ideal. Microsoft can use the findings from this project to succesfully step into the world of Hollywood.
 
 ## Business Problem
 
@@ -22,9 +22,13 @@ This project uses descriptive analysis to highlight trends in the movie industry
 
 ## Results
 
-January has the lowest number of releases and December has the highest. Overall, quarter 1 (highlighted in blue) has the lowest average number of movies released, followed by quarter 2 (highlighted in green), followed by quarter 3 (highlighted in yellow). Quarter 4, which is highlighted in red, has the highest average number of movies released in a year. 
+The first graph highlights how many movies are released every month. January has the lowest number of releases and December has the highest. Overall, quarter 1 (highlighted in blue) has the lowest average number of movies released and quarter 4, which is highlighted in red, has the highest average number of movies released in a year. 
+
+The second graph highlights which quarter in the year yeilds the highest ROI. The four quarters have a similar ROI, with quarter three having the highest ROI at 356%. 
 
 ![title](Images/Movie_Releases_Per_Year.png) 
+
+![title](Images/Movie_Releases_&_Year.png)
 
 Horror movies generate the highest ROI. The second best genere to yield a high ROI is mystery. The third best is thriller, followed by geography, followed by sports. 
 
@@ -38,7 +42,7 @@ By a landslide, the most popular runtime for a movie is between one and one-and-
 
 This analysis concludes three core recommendations for Microsoft. 
 
-- **The best time to release a movie would be quarter two.** This falls into the months of April, May and June. Quarter two has the second lowest number of releases in a year. Quarter one has the lowest number of releases however, more people are likely to be outside during the spring months.
+- **The best time to release a movie would be in July.** Quarter three has the highest ROI of all four quarters in the year. That falls into the months of July, August and September. Of those three months, July has the lowest number of movie releases. 
 
 - **Horror movies have the highest ROI.** Mystery and thriller are good options as well. 
 
