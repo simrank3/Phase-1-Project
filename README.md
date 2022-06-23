@@ -28,7 +28,7 @@ The second graph highlights which quarter in the year yeilds the highest ROI. Th
 
 ![title](Images/Movie_Releases_Per_Year.png) 
 
-![title](Images/Movie_Releases_&_Year.png)
+![title](Images/Movie_Releases_&_ROI.png)
 
 Horror movies generate the highest ROI. The second best genere to yield a high ROI is mystery. The third best is thriller, followed by geography, followed by sports. 
 
