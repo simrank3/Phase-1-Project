@@ -24,7 +24,7 @@ This project uses descriptive analysis to highlight trends in the movie industry
 
 The first graph highlights how many movies are released every month. January has the lowest number of releases and December has the highest. Overall, quarter 1 (highlighted in blue) has the lowest average number of movies released and quarter 4, which is highlighted in red, has the highest average number of movies released in a year. 
 
-The second graph highlights which quarter in the year yeilds the highest ROI. The four quarters have a similar ROI, with quarter three having the highest ROI at 356%. 
+The second graph highlights which quarter in the year yeilds the highest ROI. The four quarters have a similar ROI, with quarter two having the highest ROI at 356%. 
 
 ![title](Images/Movie_Releases_Per_Year.png) 
 
@@ -36,17 +36,21 @@ Horror movies generate the highest ROI. The second best genere to yield a high R
 
 By a landslide, the most popular runtime for a movie is between one and one-and-a-half hours to two hours. The least popular runtime is between two-and-a-half hours to three hours. 
 
+As seen in the second graph, movies that are between an hour and an hour-and-a half have the highest ROI. 
+
 ![title](Images/Movie_Runtimes.png) 
+
+![title](Images/Runtime_and_ROI.png)
 
 ## Conclusions
 
 This analysis concludes three core recommendations for Microsoft. 
 
-- **The best time to release a movie would be in July.** Quarter three has the highest ROI of all four quarters in the year. That falls into the months of July, August and September. Of those three months, July has the lowest number of movie releases. 
+- **The best time to release a movie would be in May.** Quarter two has the highest ROI of all four quarters in the year. That falls into the months of April, May and June. Of those three months, May has the lowest number of movie releases. It would be best to release a movie then as there aren't many other movie releases that month. 
 
 - **Horror movies have the highest ROI.** Mystery and thriller are good options as well. 
 
-- **The movie runtime should be between 90 minutes and 120 minutes.** This was the runtime range for most of the movies in the dataset. 
+- **The movie runtime should be between 60 minutes and 90 minutes.** This was the runtime range that has the highest ROI in the dataset. 
 
 ### Next Steps
 
